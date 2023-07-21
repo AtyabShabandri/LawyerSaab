@@ -5,12 +5,14 @@ The chatbot incorporates advanced Natural Language Understanding (NLU) and Natur
 
 Key Features:
 
-Deep Learning with GPT-4: The chatbot uses the revolutionary GPT-4 language model developed by OpenAI for understanding and generating human-like text. GPT-4, with its enhanced learning abilities, ensures improved context understanding and response generation.
+Deep Learning with GPT-4: The model uses the revolutionary GPT-4 language model developed by OpenAI for understanding and generating human-like text. GPT-4, with its enhanced learning abilities, ensures improved context understanding and response generation.
 
-Training on Domain-specific Data: The model is trained specifically on Indian Constitutional Law and a wide range of legal documents, making it a domain-specific AI tool with extensive legal knowledge.
+Training on Domain-specific Data: The model is trained specifically on Indian Constitutional Law and a range of legal documents, making it a domain-specific AI tool with extensive legal knowledge.
 
 Llama Index Integration: Llama Index is used as a powerful information retrieval tool that allows the chatbot to fetch the most relevant answers from its extensive training data. This feature significantly improves the chatbot's accuracy
 
 The innovation encapsulated within this project reflects a significant stride towards harnessing AI's potential in the legal domain. It not only stands to streamline research and education in Indian Constitutional Law but also introduces an era of digital transformation in the wider legal field.
 
-In the future I plan to train it on a more robust data source, run the model on a cloud instance for faster responses and train it on LlaMa2 instead of GPT-4
+In the future I plan to train it on a more robust data source, run the model on a cloud instance for faster responses, train it on LlaMa2 instead of GPT-4 and condense this all into a open-source api.
+
+You can clone this repo and try it either data of your own or run a few test questions on it.
